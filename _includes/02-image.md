@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Feeding a tiger cub in Thailand](https://github.com/markdown-portfolio/_includes/tiger.jpg)
